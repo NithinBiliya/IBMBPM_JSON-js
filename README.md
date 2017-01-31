@@ -25,13 +25,14 @@ Known Bugs -
 ## Usage
 
 BPM object -
-Private>requestFilenetInput
-	> sourceDocumentClass (String)
-	> targetDocumentClass (String)
-	> compareSearchQuery (String)
-	> reindexSearchQuery (String)
-	> keyValue (String)
-	> flag (String)
+
+	Private>requestFilenetInput
+		> sourceDocumentClass (String)
+		> targetDocumentClass (String)
+		> compareSearchQuery (String)
+		> reindexSearchQuery (String)
+		> keyValue (String)
+		> flag (String)
 
 Convertion code -
 	
